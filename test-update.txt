@@ -1,0 +1,9 @@
+considerate basic git command:
+- git clone (url of ssh repo) = fetch repo to local
+- git push / push origin main = uploading to github repo
+
+- git add . (dot means all) = staging
+- git commit -m "massage or notes to the commit" = sending to branch
+
+- git status = see files modified/ added
+- git log = basically commands history
