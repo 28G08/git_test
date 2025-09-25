@@ -1,0 +1,2 @@
+im pretty sure my vscide need a little adjusment for the git stuff. but im not sure what to do.
+i don't want accidentally clone and adding 2 different files at the same time. maybe i need to look it up on the internet
